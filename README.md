@@ -1,4 +1,4 @@
-RAG-based intelligent document search using Azure AI Foundry/Search
+**RAG-based intelligent document search using Azure AI Foundry/Search**
 
 ## Overview
 
