@@ -1,5 +1,3 @@
-# AI_Foundry_rag_doc_search
-
 RAG-based intelligent document search using Azure AI Foundry/Search
 
 ## Overview
